@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cc036"],{"4bb4":function(n,a,t){"use strict";t.r(a);var e=function(){var n=this,a=n.$createElement,t=n._self._c||a;return t("v-container",[t("v-img",{attrs:{src:"https://img2.labirint.ru/rcimg/d2aa6bd541bb5830e75d6182b3c32aeb/960x540/books51/508700/ph_1.jpg?1563862511"}})],1)},c=[],r=t("2877"),i=t("6544"),b=t.n(i),s=t("a523"),o=t("adda"),u={},l=Object(r["a"])(u,e,c,!1,null,null,null);a["default"]=l.exports;b()(l,{VContainer:s["a"],VImg:o["a"]})}}]);
+//# sourceMappingURL=chunk-2d0cc036.4bf72a91.js.map

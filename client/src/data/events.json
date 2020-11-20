@@ -1,0 +1,23 @@
+[{
+        "id": 1,
+        "title": "Событие 1",
+        "description": "Lorem ipsum",
+        "start_time": "",
+        "stop_time": "",
+        "image": "pravned",
+        "events": [{
+            "id": 1,
+            "isActive": 1,
+            "title": "Подсобытие 1",
+            "progress": 0.8
+        }]
+    },
+    {
+        "id": 2,
+        "title": "Событие 1",
+        "description": "Lorem ipsum",
+        "start_time": "",
+        "stop_time": "",
+        "image": "robot"
+    }
+]
